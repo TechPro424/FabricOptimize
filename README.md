@@ -24,5 +24,5 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 | [Indium](https://modrinth.com/mod/indium) | Sodium addon providing support for the Fabric Rendering API, based on Indigo. | [comp500](https://modrinth.com/user/comp500) |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | [modmuss50](https://modrinth.com/user/modmuss50) |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | Configuration library for Minecraft mods. | [shedaniel](https://modrinth.com/user/shedaniel) |
-| Dynamic FPS | Improve performance when Minecraft is running in the background. | [juliand665](https://modrinth.com/user/juliand665) |
-| Enhanced Block Enitities | Reduce FPS lag with block entities, as well as customize them with resource packs. | x |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Improve performance when Minecraft is running in the background. | [juliand665](https://modrinth.com/user/juliand665) |
+| [Enhanced Block Enitities](https://modrinth.com/mod/ebe) | Reduce FPS lag with block entities, as well as customize them with resource packs. | x |

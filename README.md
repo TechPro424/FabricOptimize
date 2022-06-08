@@ -17,3 +17,12 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 ## Installation and updating
 1. If you are ***installing the modpack for the first time***, head over to the latest release, download the `Installation.ps1` script, and run it.
 2. If you want to ***update the modpack***, head over to the latest release, download the `Updating.ps1` script, and run it.
+## Included Mods
+| Mod | Description | Maintainer |
+| ----------- | ----------- | ----------- |
+| [Sodium](https://modrinth.com/mod/sodium) | Modern rendering engine and client-side optimization mod for Minecraft. | [CaffeineMC](https://github.com/CaffeineMC) |
+| [Indium](https://modrinth.com/mod/indium) | Sodium addon providing support for the Fabric Rendering API, based on Indigo. | [comp500](https://modrinth.com/user/comp500) |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | [modmuss50](https://modrinth.com/user/modmuss50) |
+| [Cloth Config API](https://modrinth.com/mod/cloth-config) | Configuration library for Minecraft mods. | [shedaniel](https://modrinth.com/user/shedaniel) |
+| Dynamic FPS | Improve performance when Minecraft is running in the background. | [juliand665](https://modrinth.com/user/juliand665) |
+| Enhanced Block Enitities | Reduce FPS lag with block entities, as well as customize them with resource packs. | x |

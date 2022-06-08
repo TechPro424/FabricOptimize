@@ -15,5 +15,5 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 ## Prerequisites
 1. Open Powershell as Administrator, and run `Set-ExecutionPolicy Unrestricted`. This lets you run scripts downloaded online.
 ## Installation and updating
-1. If you are ***installling the modpack for the first time***, head over to the latest release, download the `Installation.ps1` script, and run it.
+1. If you are ***installing the modpack for the first time***, head over to the latest release, download the `Installation.ps1` script, and run it.
 2. If you want to ***update the modpack***, head over to the latest release, download the `Updating.ps1` script, and run it.

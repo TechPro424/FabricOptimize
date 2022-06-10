@@ -25,4 +25,7 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | [modmuss50](https://modrinth.com/user/modmuss50) |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | Configuration library for Minecraft mods. | [shedaniel](https://modrinth.com/user/shedaniel) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Improve performance when Minecraft is running in the background. | [juliand665](https://modrinth.com/user/juliand665) |
-| [Enhanced Block Enitities](https://modrinth.com/mod/ebe) | Reduce FPS lag with block entities, as well as customize them with resource packs. | x |
+| [Enhanced Block Enitities](https://modrinth.com/mod/ebe) | Reduce FPS lag with block entities, as well as customize them with resource packs. | [FoundationGames](https://modrinth.com/user/FoundationGames) |
+| [EntityCulling](https://modrinth.com/mod/entityculling) | Using async path-tracing to hide blocks/entities that are not visible. | [tr7zw](https://modrinth.com/user/tr7zw) |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations. | [malte0811](https://modrinth.com/user/malte0811) |
+| [Language Reload](https://modrinth.com/mod/language-reload) | Makes language reloading and switching faster. | [Jerozgen](https://modrinth.com/user/Jerozgen) |

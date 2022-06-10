@@ -29,3 +29,8 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 | [EntityCulling](https://modrinth.com/mod/entityculling) | Using async path-tracing to hide blocks/entities that are not visible. | [tr7zw](https://modrinth.com/user/tr7zw) |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations. | [malte0811](https://modrinth.com/user/malte0811) |
 | [Language Reload](https://modrinth.com/mod/language-reload) | Makes language reloading and switching faster. | [Jerozgen](https://modrinth.com/user/Jerozgen) |
+| [LazyDFU](https://modrinth.com/mod/lazydfu) | Makes the game boot faster by deferring non-essential initialization. | [astei](https://modrinth.com/user/astei) |
+| [Krypton](https://modrinth.com/mod/krypton) | A mod to optimize the Minecraft networking stack. | [astei](https://modrinth.com/user/astei) |
+| [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic/server optimization mod. | [CaffeineMC](https://github.com/CaffeineMC) |
+| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server. | [fxmorin](https://modrinth.com/user/fxmorin) |
+| [Starlight](https://modrinth.com/mod/starlight) | Rewrites the light engine to fix lighting performance and lighting errors. | [spottedleaf](https://modrinth.com/user/spottedleaf) |

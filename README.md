@@ -34,3 +34,14 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 | [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic/server optimization mod. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server. | [fxmorin](https://modrinth.com/user/fxmorin) |
 | [Starlight](https://modrinth.com/mod/starlight) | Rewrites the light engine to fix lighting performance and lighting errors. | [spottedleaf](https://modrinth.com/user/spottedleaf) |
+| [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) | Eliminates the FPS drops caused by crossing certain chunk borders. | [BreadLoaf](https://modrinth.com/user/BreadLoaf) |
+| [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) | Improve Minecraft CPU scheduling. | [UltimateBoomer](https://modrinth.com/user/UltimateBoomer) |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | Adds a mod menu to view the list of mods you have installed. | [TerraformersMC](https://github.com/TerraformersMC) |
+| [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | Cull leaves while looking hot! | [isxander](https://modrinth.com/user/isxander) |
+| [DashLoader](https://modrinth.com/mod/dashloader) | Launch Minecraft at the speed of light. | [alphaqu](https://modrinth.com/user/alphaqu) |
+| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | A Fabric mod designed to improve server performance at high playercounts. | [RelativityMC](https://github.com/RelativityMC) |
+| [Skip Transitions](https://modrinth.com/mod/skip-transitions) | Skips title screen animation, Mojang logo fade in/fade out, sliding notifications, and more. | [trufflezmc](https://modrinth.com/user/trufflezmc) |
+| [Bedrodium](https://modrinth.com/mod/bedrodium) | Small optimization by removing the invisible sides of bedrock blocks. | [kirillirik](https://modrinth.com/user/kirillirik) |
+| [Fastload](https://modrinth.com/mod/fastload) | Modifies the 441 Loading Engine to decrease world loading times. | [BumbleSoftware](https://github.com/BumbleSoftware) |
+| [Client Side Noteblocks](https://modrinth.com/mod/clientsidenoteblocks) | Removes lag when playing noteblocks. | [varun7654](https://github.com/varun7654) |
+| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Clumps items and XP together to reduce lag. | [jaredlll08](https://github.com/jaredlll08) |

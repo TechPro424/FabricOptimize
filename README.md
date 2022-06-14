@@ -45,3 +45,4 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 | [Fastload](https://modrinth.com/mod/fastload) | Modifies the 441 Loading Engine to decrease world loading times. | [BumbleSoftware](https://github.com/BumbleSoftware) |
 | [Client Side Noteblocks](https://modrinth.com/mod/clientsidenoteblocks) | Removes lag when playing noteblocks. | [varun7654](https://github.com/varun7654) |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Clumps items and XP together to reduce lag. | [jaredlll08](https://github.com/jaredlll08) |
+| [Version Mod Loader](https://modrinth.com/mod/vml) | Loads Fabric mods from folders based on your Minecraft version. | [sschr15](https://modrinth.com/user/sschr15) |

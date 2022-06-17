@@ -10,7 +10,7 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 1. For creating and maintaining [Fabric](https://fabricmc.net/)
 2. For helping me out with the part of the scripts that install Fabric and tolerating my stupid questions on that subject.
 ### The developers of the mods used in the modpack
-1. For creating and maintaining the mods that help me and so many others out. [List of mods included in the modpack](https://example.com/)
+1. For creating and maintaining the mods that help me and so many others out. [List of mods included in the modpack](https://github.com/TechPro424/FabricOptimize#included-mods)
 (If you want your mod removed from the modpack, please let me know)
 ### Ferium
 1. This modpack uses the [Ferium](https://github.com/gorilla-devs/ferium) CLI tool to install and update the mods in the modpack.

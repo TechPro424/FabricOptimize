@@ -12,12 +12,14 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 ### The developers of the mods used in the modpack
 1. For creating and maintaining the mods that help me and so many others out. [List of mods included in the modpack](https://example.com/)
 (If you want your mod removed from the modpack, please let me know)
+### Ferium
+1. This modpack uses the [Ferium](https://github.com/gorilla-devs/ferium) CLI tool to install and update the mods in the modpack.
 ## Prerequisites
 1. Open Powershell as Administrator, and run `Set-ExecutionPolicy Unrestricted`. This lets you run scripts downloaded online.
 ## Installation and updating
 1. If you are ***installing the modpack for the first time***, head over to the latest release, download the `Installation.ps1` script, and run it.
 2. If you want to ***update the modpack***, head over to the latest release, download the `Updating.ps1` script, and run it.
-## Included Mods
+## Included mods
 | Mod | Description | Maintainer |
 | ----------- | ----------- | ----------- |
 | [Sodium](https://modrinth.com/mod/sodium) | Modern rendering engine and client-side optimization mod for Minecraft. | [CaffeineMC](https://github.com/CaffeineMC) |
@@ -46,3 +48,8 @@ Huge thanks to [Madis0](https://github.com/Madis0) for making the [Fabulously Op
 | [Client Side Noteblocks](https://modrinth.com/mod/clientsidenoteblocks) | Removes lag when playing noteblocks. | [varun7654](https://github.com/varun7654) |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Clumps items and XP together to reduce lag. | [jaredlll08](https://github.com/jaredlll08) |
 | [Version Mod Loader](https://modrinth.com/mod/vml) | Loads Fabric mods from folders based on your Minecraft version. | [sschr15](https://modrinth.com/user/sschr15) |
+## Adding and removing mods from the modpack
+Run `ferium profile switch FabricOptimize` before adding or removing mods, to make sure that you're in the correct profile.
+
+1. Adding Mods: Check the ["Adding Mods" section on Ferium's GitHub page](https://github.com/gorilla-devs/ferium#adding-mods)
+2. Removing Mods: Check the ["Managing Mods" section on Ferium's GitHub page](https://github.com/gorilla-devs/ferium#managing-mods)

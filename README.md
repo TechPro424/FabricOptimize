@@ -1,5 +1,11 @@
 # FabricOptimize
 An optimization modpack (Java Edition only) for those using the ofiicial Minecraft launcher for Windows that uses the Fabric Loader and some great optimization mods to make your game run smoother.
+## What the modpack is, and what it does
+The modpack is basically 2 scripts (one for installation and one for updating), and it installs the following onto your system:
+1. [The Scoop CLI package manager](https://scoop.sh/), used to install the Ferium CLI tool for managing the modpack.
+2. [The Ferium CLI tool](https://github.com/gorilla-devs/ferium)
+3. [The Fabric modloader](https://fabricmc.net/)
+4. [The mods in the modpack](https://github.com/TechPro424/FabricOptimize#included-mods)
 ## Credits
 I am extremely grateful to the following people and organizations that contributed to the making of this modpack:
 ### Madis0

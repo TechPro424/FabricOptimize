@@ -2,6 +2,7 @@ $User = [Environment]::UserName
 Set-Location c:\Users\$User
 Write-Host "Installing Scoop"
 Invoke-RestMethod get.scoop.sh | Invoke-Expression
+scoop install git
 Write-Host "Installed Scoop"
 Write-Host "Installing Java Runtime"
 scoop bucket add java

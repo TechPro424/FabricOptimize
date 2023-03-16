@@ -26,32 +26,16 @@ ferium profile create --game-version 1.19 --mod-loader fabric --name FabricOptim
 ferium profile switch FabricOptimize
 Write-Host "Created Ferium Profile"
 Write-Host "Adding Mods"
-ferium add vml
-ferium add sodium
-ferium add indium
-ferium add fabric-api
-ferium add cloth-config
-ferium add dynamic-fps
-ferium add ebe
-ferium add entityculling
-ferium add ferrite-core
-ferium add language-reload
-ferium add lazydfu
-ferium add lithium
-ferium add memoryleakfix
-ferium add starlight
-ferium add forgetmechunk
-ferium add smoothboot-fabric
-ferium add krypton
-ferium add modmenu
-ferium add cull-less-leaves
-ferium add dashloader
-ferium add vmp-fabric
-ferium add skip-transitions
-ferium add bedrodium
-ferium add fastload
-ferium add clientsidenoteblocks
-ferium add 256717
+
+$modlist = "sodium","indium","fabric-api","cloth-config","dynamic-fps","ebe","entityculling","ferrite-core","lithium",
+"memoryleakfix","starlight","krypton","modmenu","cull-less-leaves","vmp-fabric","skip-transitions","clientsidenoteblocks"
+
+for($i=0; $i -lt $modlist.Length; $i++)   
+    {   
+        ferium add $modlist[$i]  
+    }  
+# ferium add 256717
+# what mod is this i forgor :skull:
 ferium upgrade
 Write-Host "Added Mods"
 pause

@@ -20,7 +20,7 @@ scoop update ferium
 Write-Host "Updated Ferium"
 Write-Host "Updating Mods"
 ferium profile switch FabricOptimize
-ferium profile configure --game-version 1.19
+ferium profile configure --game-version 1.19.4
 ferium upgrade
 Write-Host "Updated Mods"
 pause

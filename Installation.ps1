@@ -22,20 +22,22 @@ scoop bucket add games
 scoop install ferium
 Write-Host "Installed Ferium"
 Write-Host "Creating Ferium Profile"
-ferium profile create --game-version 1.19 --mod-loader fabric --name FabricOptimize
+ferium profile create --game-version 1.19.4 --mod-loader fabric --name FabricOptimize
 ferium profile switch FabricOptimize
 Write-Host "Created Ferium Profile"
 Write-Host "Adding Mods"
 
 $modlist = "sodium","indium","fabric-api","cloth-config","dynamic-fps","ebe","entityculling","ferrite-core","lithium",
-"memoryleakfix","starlight","krypton","modmenu","cull-less-leaves","vmp-fabric","skip-transitions","clientsidenoteblocks"
+"memoryleakfix","starlight","krypton","modmenu","cull-less-leaves","vmp-fabric","skip-transitions","clientsidenoteblocks", 
+256717
+
+#The mod with ID 256717 is Clumps mod: https://www.curseforge.com/minecraft/mc-mods/clumps
 
 for($i=0; $i -lt $modlist.Length; $i++)   
     {   
         ferium add $modlist[$i]  
-    }  
-# ferium add 256717
-# what mod is this i forgor :skull:
+    } 
+
 ferium upgrade
 Write-Host "Added Mods"
 pause
